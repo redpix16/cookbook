@@ -14,8 +14,8 @@
  * @package WordPress
  */
 define('WP_REDIS_HOST', 'redis-new.78mgon.ng.0001.apse1.cache.amazonaws.com:6379');
-define('WP_HOME','http://ec2-52-76-69-217.ap-southeast-1.compute.amazonaws.com');
-define('WP_SITEURL','http://ec2-52-76-69-217.ap-southeast-1.compute.amazonaws.com');
+define('WP_HOME','http://d33ed5hixp0ce9.cloudfront.net');
+define('WP_SITEURL','http://d33ed5hixp0ce9.cloudfront.net');
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', 'redpix');
